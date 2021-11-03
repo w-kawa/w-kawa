@@ -13,7 +13,7 @@
     
 - 🔭 I’m currently working on Fullstack Vue.js web applications!
     
-- 🌱 I’m currently learning .NET Core, GraphQL, PWA.
+- 🌱 I’m currently learning Express.js, GraphQL, PWA and other backend JavaScript technologies.
     
 - 👥 Collaborate? Interested in my services?  Just ask :)
     Always happy to interact with other people.
