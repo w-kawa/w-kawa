@@ -14,6 +14,3 @@
 <img width ='45px' src ='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png'>
 <img width ='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
 </div>
-
-Why I don't host my code here:
-https://www.kawa.codes/blog/2/
